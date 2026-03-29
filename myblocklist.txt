@@ -28,3 +28,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn3.adstag0102.xyz
 0.0.0.0 adstag0102.xyz
 0.0.0.0 apm.cosmolot.ua
+0.0.0.0 r6.adstag0102.xyz
