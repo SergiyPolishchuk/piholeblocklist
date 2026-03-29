@@ -13,33 +13,5 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-0.0.0.0 s.schulist.link
-0.0.0.0 schulist.link
-0.0.0.0 v.nogravity4.click
-0.0.0.0 nogravity4.click
-0.0.0.0 vbiath.adstag0102.xyz
-0.0.0.0 adstag0102.xyz
-0.0.0.0 f1.adstag0102.xyz
-0.0.0.0 adstag0102.xyz
-0.0.0.0 v1.adstag0102.xyz
-0.0.0.0 cdn.servetraff.com
-0.0.0.0 servetraff.com
-0.0.0.0 v3.adstag0102.xyz
-0.0.0.0 cdn3.adstag0102.xyz
-0.0.0.0 adstag0102.xyz
 0.0.0.0 apm.cosmolot.ua
-0.0.0.0 r6.adstag0102.xyz
-0.0.0.0 v4.adstag0102.xyz
-0.0.0.0 cdn2.adstag0102.xyz
-0.0.0.0 cdn.adstag0102.xyz
-0.0.0.0 cdn4.adstag0102.xyz
-0.0.0.0 s.schulist.link
-
-0.0.0.0 cdn77.srv224.com
-0.0.0.0 srv224.com
-0.0.0.0 hdvbua.pro
-0.0.0.0 lavakino.cc 
-0.0.0.0 *.cdn77.org
-0.0.0.0 1057056260.rsc.cdn77.org
-0.0.0.0 *.cdn77.com
-0.0.0.0 (^|\.)cdn77\.org$
+0.0.0.0 slotcity.ua
