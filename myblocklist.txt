@@ -16,7 +16,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.schulist.link
 0.0.0.0 v.nogravity4.click
 0.0.0.0 ashdi.vip
-0.0.0.0 v2.adstag0102.xyz
 0.0.0.0 vbiath.adstag0102.xyz
 0.0.0.0 f1.adstag0102.xyz
 0.0.0.0 v1.adstag0102.xyz
@@ -24,3 +23,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 v3.adstag0102.xyz
 0.0.0.0 cdn3.adstag0102.xyz
 0.0.0.0 ashdi.vip
+0.0.0.0 adstag0102.xyz
