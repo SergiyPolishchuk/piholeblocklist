@@ -41,3 +41,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 lavakino.cc 
 0.0.0.0 *.rsc.cdn77.org
 0.0.0.0 1057056260.rsc.cdn77.org
+0.0.0.0 690098106.bra.cdn77.com
