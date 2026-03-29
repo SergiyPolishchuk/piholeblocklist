@@ -42,3 +42,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 *.cdn77.org
 0.0.0.0 1057056260.rsc.cdn77.org
 0.0.0.0 *.cdn77.com
+0.0.0.0 (^|\.)cdn77\.org$
