@@ -40,3 +40,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 hdvbua.pro
 0.0.0.0 lavakino.cc 
 0.0.0.0 185.76.8.9
+0.0.0.0 1057056260.rsc.cdn77.org
