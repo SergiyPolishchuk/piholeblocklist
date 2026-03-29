@@ -15,3 +15,4 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 s.schulist.link
 0.0.0.0 v.nogravity4.click
+0.0.0.0 ashdi.vip
