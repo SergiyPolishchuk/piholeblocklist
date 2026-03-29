@@ -19,3 +19,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 v2.adstag0102.xyz
 0.0.0.0 vbiath.adstag0102.xyz
 0.0.0.0 f1.adstag0102.xyz
+0.0.0.0 v1.adstag0102.xyz
