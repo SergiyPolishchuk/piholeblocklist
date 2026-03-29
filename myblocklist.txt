@@ -23,3 +23,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.servetraff.com
 0.0.0.0 v3.adstag0102.xyz
 0.0.0.0 cdn3.adstag0102.xyz
+0.0.0.0 ashdi.vip
