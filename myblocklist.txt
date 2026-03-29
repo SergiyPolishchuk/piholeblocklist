@@ -33,3 +33,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn2.adstag0102.xyz
 0.0.0.0 cdn.adstag0102.xyz
 0.0.0.0 cdn4.adstag0102.xyz
+0.0.0.0 s.schulist.link
