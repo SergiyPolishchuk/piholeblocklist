@@ -21,3 +21,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  v4.adstag0102.xyz
 0.0.0.0 r0.adstag0102.xyz
 0.0.0.0 v4.pjstat.com
+0.0.0.0 cdn.servetraff.com
+0.0.0.0 servetraff.com
+0.0.0.0 gdeua.hit.gemius.pl
