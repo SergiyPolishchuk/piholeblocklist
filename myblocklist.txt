@@ -20,3 +20,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 r0.adstag0102.xyz
 0.0.0.0 v4.adstag0102.xyz
 0.0.0.0 v1.adstag0102.xyz
+0.0.0.0 schulist.link
+0.0.0.0 s.schulist.link
