@@ -22,3 +22,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 v1.adstag0102.xyz
 0.0.0.0 schulist.link
 0.0.0.0 s.schulist.link
+0.0.0.0 pjstat.com
+0.0.0.0 v4.pjstat.com
+0.0.0.0 kingads.digital
+0.0.0.0 ads.kingads.digital
+0.0.0.0 s.ads.kingads.digital
+0.0.0.0 adstag0102.xyz
+0.0.0.0 r6.adstag0102.xyz
+0.0.0.0 franecki.net
