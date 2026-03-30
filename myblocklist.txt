@@ -49,3 +49,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 muf.app-ads-services.com
 0.0.0.0 www.app-ads-services.com
 0.0.0.0 yandex.ru
+0.0.0.0 ad2the.net
