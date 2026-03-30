@@ -20,6 +20,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 r0.adstag0102.xyz
 0.0.0.0 v4.adstag0102.xyz
 0.0.0.0 v1.adstag0102.xyz
+0.0.0.0 cdn.adstag0102.xyz
 0.0.0.0 schulist.link
 0.0.0.0 s.schulist.link
 0.0.0.0 pjstat.com
@@ -42,3 +43,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 1057056260.rsc.cdn77.org
 0.0.0.0 srv224.com
 0.0.0.0 cdn77.srv224.com
+0.0.0.0 unocdn.com
+0.0.0.0 video.unocdn.com
