@@ -16,3 +16,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 apm.cosmolot.ua
 0.0.0.0 slotcity.ua
 0.0.0.0 s.schulist.link
+0.0.0.0 *.v2.adstag0102.*
