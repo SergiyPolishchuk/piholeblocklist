@@ -26,6 +26,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 gdeua.hit.gemius.pl
 0.0.0.0 franecki.net
 
-0.0.0.0 oneclient.sfx.ms
-0.0.0.0 g.live.com
-0.0.0.0 ecs.office.com
+0.0.0.0 reichelcormier.bid
