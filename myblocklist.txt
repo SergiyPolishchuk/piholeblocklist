@@ -25,6 +25,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 servetraff.com
 0.0.0.0 gdeua.hit.gemius.pl
 0.0.0.0 franecki.net
+0.0.0.0 cdn2.adstag0102.xyz
 
 0.0.0.0 reichelcormier.bid
 0.0.0.0 servetraff.com
