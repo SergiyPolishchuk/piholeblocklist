@@ -17,3 +17,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 slotcity.ua
 0.0.0.0 s.schulist.link
 0.0.0.0 adstag0102.xyz
+0.0.0.0 (^|\.)adstag0102\.xyz$
