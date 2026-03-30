@@ -23,6 +23,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 schulist.link
 0.0.0.0 s.schulist.link
 0.0.0.0 pjstat.com
+0.0.0.0 v2.pjstat.com
 0.0.0.0 v4.pjstat.com
 0.0.0.0 kingads.digital
 0.0.0.0 ads.kingads.digital
@@ -30,3 +31,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adstag0102.xyz
 0.0.0.0 r6.adstag0102.xyz
 0.0.0.0 franecki.net
+0.0.0.0 servetraff.com
+0.0.0.0 cdn.servetraff.com
+0.0.0.0 jk19ocmjeoyql3tj.ashdi.vip
