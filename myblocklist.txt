@@ -13,20 +13,4 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-0.0.0.0 apm.cosmolot.ua
-0.0.0.0 slotcity.ua
-0.0.0.0 s.schulist.link
-0.0.0.0 adstag0102.xyz
-0.0.0.0 pjstat.com
-0.0.0.0 v4.adstag0102.xyz
-0.0.0.0 r0.adstag0102.xyz
-0.0.0.0 v4.pjstat.com
-0.0.0.0 cdn.servetraff.com
-0.0.0.0 servetraff.com
-0.0.0.0 gdeua.hit.gemius.pl
-0.0.0.0 franecki.net
-0.0.0.0 cdn2.adstag0102.xyz
-
-0.0.0.0 reichelcormier.bid
-0.0.0.0 servetraff.com
-0.0.0.0 www.gstatic.com
+0.0.0.0 uafix.net
