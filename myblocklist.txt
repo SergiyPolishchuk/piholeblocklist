@@ -45,6 +45,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn77.srv224.com
 0.0.0.0 unocdn.com
 0.0.0.0 video.unocdn.com
+0.0.0.0 zetvideo.net
+0.0.0.0 r.i.ua
 
 0.0.0.0 muf.app-ads-services.com
 0.0.0.0 www.app-ads-services.com
