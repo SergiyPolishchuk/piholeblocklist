@@ -59,3 +59,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onetag-sys.com
 0.0.0.0 sync.adtelligent.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 go.rcvlink.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 safeframe.googlesyndication.com
+0.0.0.0 4122ad693b7e3b00d60b1314148e3cff.safeframe.googlesyndication.com
