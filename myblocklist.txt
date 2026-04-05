@@ -55,3 +55,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 g-galleryapi.micloud.xiaomi.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 player.bidmatic.io
+0.0.0.0 tpc.googlesyndication.com
