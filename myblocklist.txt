@@ -37,7 +37,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 franeski.net
 0.0.0.0 servetraff.com
 0.0.0.0 cdn.servetraff.com
-0.0.0.0 jk19ocmjeoyql3tj.ashdi.vip
 0.0.0.0 cdn77.org
 0.0.0.0 rsc.cdn77.org
 0.0.0.0 1057056260.rsc.cdn77.org
