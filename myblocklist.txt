@@ -79,6 +79,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 richaudience.com
 0.0.0.0 sync.richaudience.com
 
+0.0.0.0 ezojs.com
+0.0.0.0 www.ezojs.com
+0.0.0.0 ezodn.com
+0.0.0.0 go.ezodn.com
+0.0.0.0 ezoic.net
 0.0.0.0 g.ezoic.net
 0.0.0.0 ccgateway.net
 0.0.0.0 pb-ing-02.ccgateway.net
