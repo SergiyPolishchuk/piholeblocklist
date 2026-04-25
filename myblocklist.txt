@@ -57,9 +57,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 sync.adtelligent.com
-0.0.0.0 doubleclick.net
-0.0.0.0 g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 go.rcvlink.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 safeframe.googlesyndication.com
@@ -68,6 +65,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 syndicatedsearch.goog
 0.0.0.0 googlesyndication.com
