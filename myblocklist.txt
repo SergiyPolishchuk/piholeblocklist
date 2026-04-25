@@ -78,4 +78,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 lib.wtg-ads.com
 0.0.0.0 richaudience.com
 0.0.0.0 sync.richaudience.com
+
 0.0.0.0 g.ezoic.net
+0.0.0.0 ccgateway.net
+0.0.0.0 pb-ing-02.ccgateway.net
+0.0.0.0 adsrvr.org
+0.0.0.0 match.adsrvr.org
+0.0.0.0 teads.tv
+0.0.0.0 at.teads.tv
+0.0.0.0 fastclick.net
+0.0.0.0 cdn.fastclick.net
+0.0.0.0 secure.cdn.fastclick.net
