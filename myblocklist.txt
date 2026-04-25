@@ -94,3 +94,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 fastclick.net
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 secure.cdn.fastclick.net
+0.0.0.0 cdn.ampproject.org
+0.0.0.0 ampproject.org
