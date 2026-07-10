@@ -97,3 +97,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 ampproject.org
 0.0.0.0 wps.v.aaplimg.com
+
+0.0.0.0 web.telegram.org
+0.0.0.0 telegram.org
