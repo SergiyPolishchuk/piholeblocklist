@@ -102,3 +102,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 telegram.org
 0.0.0.0 site.webmanifest
 0.0.0.0 zws2.web.telegram.org
+0.0.0.0 t.me
+0.0.0.0 cdn-telegram.org
+0.0.0.0 telegram-cdn.org
+0.0.0.0 telegra.ph
+0.0.0.0 telesco.pe
