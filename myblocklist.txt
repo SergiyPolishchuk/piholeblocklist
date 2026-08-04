@@ -97,4 +97,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 ampproject.org
 0.0.0.0 wps.v.aaplimg.com
+0.0.0.0 ab-merchandise.opera-api.com
 
+0.0.0.0 dgw-ig.c10r.facebook.com
+0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 mqtt.c10r.facebook.com
+0.0.0.0 gateway.facebook.com
+0.0.0.0 star-mini.c10r.facebook.com
+
+0.0.0.0 int.perclick.com.ua
+0.0.0.0 wapshop.gameloft.com
+0.0.0.0 clientservices.googleapis.com
