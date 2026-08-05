@@ -46,10 +46,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 video.unocdn.com
 0.0.0.0 r.i.ua
 0.0.0.0 yandex.com
+0.0.0.0 mail.ru
+0.0.0.0 yandex.net
+0.0.0.0 yandex.ru
 
 0.0.0.0 muf.app-ads-services.com
 0.0.0.0 www.app-ads-services.com
-0.0.0.0 yandex.ru
 0.0.0.0 ad2the.net
 0.0.0.0 base.ashdi.vip
 0.0.0.0 g-galleryapi.micloud.xiaomi.net
