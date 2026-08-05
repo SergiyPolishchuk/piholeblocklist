@@ -146,3 +146,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 balancy.dev
 0.0.0.0 sf16-static.i18n-pglstatp.com
 0.0.0.0 i18n-pglstatp.com
+0.0.0.0 p16-ttam-va.ibyteimg.com
+0.0.0.0 ibyteimg.com
