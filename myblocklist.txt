@@ -124,3 +124,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloudfront.net
 0.0.0.0 vg-new-hb-bid-feedback.mtgglobals.com
 0.0.0.0 api16-access-adx-my-noncdn.pangle.io
+0.0.0.0 gecko-sg.tiktokv.com
+0.0.0.0 tiktokv.com
+0.0.0.0 noti-eu.adsmoloco.com
