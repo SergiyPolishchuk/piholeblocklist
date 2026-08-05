@@ -134,9 +134,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 i18n-pglstatp.com
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 byteoversea.com
-0.0.0.0 bh.music.amanotes.net
-0.0.0.0 music.amanotes.net
-0.0.0.0 amanotes.net
 0.0.0.0 enshrouded.com
 0.0.0.0 vg-new-ssplib-hb.mtgglobals.com
 0.0.0.0 analytics-tcp.mtgglobals.com
