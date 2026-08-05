@@ -142,7 +142,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 amanotes.net
 0.0.0.0 enshrouded.com
 0.0.0.0 vg-new-ssplib-hb.mtgglobals.com
-0.0.0.0	gw1.mediation.unity3d.com
 0.0.0.0 analytics-tcp.mtgglobals.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 api16-log-my.pangle.io
