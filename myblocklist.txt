@@ -122,3 +122,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 mtgglobals.com
 0.0.0.0 d1xncywiopk9ma.cloudfront.net
 0.0.0.0 cloudfront.net
+0.0.0.0 vg-new-hb-bid-feedback.mtgglobals.com
+0.0.0.0 api16-access-adx-my-noncdn.pangle.io
