@@ -128,3 +128,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 tiktokv.com
 0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 ohttp-relay-safebrowsing-android.google.fastly-edge.com
+0.0.0.0 google.fastly-edge.com
+0.0.0.0 fastly-edge.com
+0.0.0.0 sf19-static.i18n-pglstatp.com
+0.0.0.0 i18n-pglstatp.com
+0.0.0.0 v16-ad.byteoversea.com
+0.0.0.0 byteoversea.com
