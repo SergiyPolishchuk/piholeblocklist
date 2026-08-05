@@ -144,3 +144,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 amanotes.io
 0.0.0.0 api-1.api.balancy.dev
 0.0.0.0 balancy.dev
+0.0.0.0 sf16-static.i18n-pglstatp.com
+0.0.0.0 i18n-pglstatp.com
