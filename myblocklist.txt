@@ -116,3 +116,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 afcxtw.adrevenue.appsflyersdk.com
 0.0.0.0 ether-pack-sg.pangle.io
 0.0.0.0 afcxtw.inapps.appsflyersdk.com
+0.0.0.0 mtg-native.mtgglobals.com
+0.0.0.0 mtgglobals.com
+0.0.0.0 play.mtgglobals.com
+0.0.0.0 mtgglobals.com
+0.0.0.0 d1xncywiopk9ma.cloudfront.net
+0.0.0.0 cloudfront.net
