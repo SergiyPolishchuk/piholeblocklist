@@ -127,3 +127,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 gecko-sg.tiktokv.com
 0.0.0.0 tiktokv.com
 0.0.0.0 noti-eu.adsmoloco.com
+0.0.0.0 ohttp-relay-safebrowsing-android.google.fastly-edge.com
