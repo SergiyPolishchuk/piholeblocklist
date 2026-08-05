@@ -112,3 +112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 int.perclick.com.ua
 0.0.0.0 wapshop.gameloft.com
 0.0.0.0 clientservices.googleapis.com
+0.0.0.0 p16-common-sign.tiktokcdn.com
+0.0.0.0 afcxtw.adrevenue.appsflyersdk.com
+0.0.0.0 ether-pack-sg.pangle.io
+0.0.0.0 afcxtw.inapps.appsflyersdk.com
